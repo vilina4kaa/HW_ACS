@@ -1,0 +1,130 @@
+Guest 1 (man) checked into the room 1
+Guest 2 (man) checked into the room 2
+Guest 3 (woman) checked into the room 3
+Guest 4 (woman) checked into the room 4
+Guest 5 (woman) checked into the room 5
+Guest 6 (man) checked into the room 6
+Guest 7 (man) checked into the room 7
+Guest 8 (woman) checked into the room 8
+Guest 10 (man) checked into the room 9
+Guest 9 (man) checked into the room 10
+Guest 12 (man) checked into the room 11
+Guest 11 (man) checked into the room 11
+Guest 13 (man) checked into the room 12
+Guest 14 (woman) checked into the room 13
+Guest 15 (man) checked into the room 12
+Guest 16 (woman) checked into the room 13
+Guest 17 (man) checked into the room 14
+Guest 18 (man) checked into the room 14
+Guest 19 (woman) checked into the room 15
+Guest 20 (woman) checked into the room 15
+Guest 21 (woman) checked into the room 16
+Guest 22 (woman) checked into the room 16
+Guest 23 (woman) checked into the room 17
+Guest 24 (woman) checked into the room 17
+Guest 25 (man) checked into the room 18
+Guest 26 (man) checked into the room 18
+Guest 27 (woman) checked into the room 19
+Guest 28 (man) checked into the room 20
+Guest 29 (woman) checked into the room 19
+Guest 30 (woman) checked into the room 21
+Guest 31 (man) checked into the room 20
+Guest 32 (man) checked into the room 22
+Guest 33 (man) checked into the room 22
+Guest 34 (man) checked into the room 23
+Guest 35 (man) checked into the room 23
+Guest 36 (man) checked into the room 24
+Guest 37 (woman) checked into the room 21
+Guest 38 (man) checked into the room 24
+Guest 39 (woman) checked into the room 25
+Guest 40 (man) could not find a room
+Guest 41 (woman) checked into the room 25
+Guest 3 (woman) checked out of the room 3
+Guest 42 (woman) checked into the room 3
+Guest 4 (woman) checked out of the room 4
+Guest 43 (woman) checked into the room 4
+Guest 44 (man) could not find a room
+Guest 7 (man) checked out of the room 7
+Guest 45 (woman) checked into the room 7
+Guest 46 (man) could not find a room
+Guest 47 (man) could not find a room
+Guest 6 (man) checked out of the room 6
+Guest 48 (man) checked into the room 6
+Guest 49 (woman) could not find a room
+Guest 50 (man) could not find a room
+Guest 2 (man) checked out of the room 2
+Guest 51 (woman) checked into the room 2
+Guest 1 (man) checked out of the room 1
+Guest 9 (man) checked out of the room 10
+Guest 5 (woman) checked out of the room 5
+Guest 11 (man) checked out of the room 11
+Guest 52 (woman) checked into the room 1
+Guest 8 (woman) checked out of the room 8
+Guest 14 (woman) checked out of the room 13
+Guest 13 (man) checked out of the room 12
+Guest 53 (man) checked into the room 5
+Guest 54 (woman) checked into the room 8
+Guest 15 (man) checked out of the room 12
+Guest 55 (man) checked into the room 10
+Guest 56 (woman) checked into the room 12
+Guest 57 (man) checked into the room 11
+Guest 58 (man) could not find a room
+Guest 16 (woman) checked out of the room 13
+Guest 59 (man) checked into the room 13
+Guest 60 (woman) checked into the room 12
+Guest 61 (man) checked into the room 13
+Guest 62 (man) could not find a room
+Guest 63 (man) could not find a room
+Guest 64 (man) could not find a room
+Guest 10 (man) checked out of the room 9
+Guest 12 (man) checked out of the room 11
+Guest 24 (woman) checked out of the room 17
+Guest 18 (man) checked out of the room 14
+Guest 20 (woman) checked out of the room 15
+Guest 65 (woman) checked into the room 9
+Guest 66 (woman) checked into the room 15
+Guest 21 (woman) checked out of the room 16
+Guest 67 (man) checked into the room 11
+Guest 68 (man) checked into the room 14
+Guest 69 (woman) checked into the room 16
+Guest 19 (woman) checked out of the room 15
+Guest 26 (man) checked out of the room 18
+Guest 70 (woman) checked into the room 15
+Guest 25 (man) checked out of the room 18
+Guest 22 (woman) checked out of the room 16
+Guest 29 (woman) checked out of the room 19
+Guest 28 (man) checked out of the room 20
+Guest 23 (woman) checked out of the room 17
+Guest 34 (man) checked out of the room 23
+Guest 30 (woman) checked out of the room 21
+Guest 27 (woman) checked out of the room 19
+Guest 17 (man) checked out of the room 14
+Guest 33 (man) checked out of the room 22
+Guest 31 (man) checked out of the room 20
+Guest 32 (man) checked out of the room 22
+Guest 39 (woman) checked out of the room 25
+Guest 43 (woman) checked out of the room 4
+Guest 38 (man) checked out of the room 24
+Guest 37 (woman) checked out of the room 21
+Guest 35 (man) checked out of the room 23
+Guest 36 (man) checked out of the room 24
+Guest 53 (man) checked out of the room 5
+Guest 41 (woman) checked out of the room 25
+Guest 45 (woman) checked out of the room 7
+Guest 51 (woman) checked out of the room 2
+Guest 42 (woman) checked out of the room 3
+Guest 48 (man) checked out of the room 6
+Guest 52 (woman) checked out of the room 1
+Guest 59 (man) checked out of the room 13
+Guest 56 (woman) checked out of the room 12
+Guest 54 (woman) checked out of the room 8
+Guest 57 (man) checked out of the room 11
+Guest 55 (man) checked out of the room 10
+Guest 61 (man) checked out of the room 13
+Guest 66 (woman) checked out of the room 15
+Guest 60 (woman) checked out of the room 12
+Guest 69 (woman) checked out of the room 16
+Guest 67 (man) checked out of the room 11
+Guest 65 (woman) checked out of the room 9
+Guest 70 (woman) checked out of the room 15
+Guest 68 (man) checked out of the room 14

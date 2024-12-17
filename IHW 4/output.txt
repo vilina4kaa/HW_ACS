@@ -1,0 +1,20 @@
+Guest 1 (woman) checked into the room 1
+Guest 2 (man) checked into the room 2
+Guest 3 (woman) checked into the room 3
+Guest 4 (woman) checked into the room 4
+Guest 6 (man) checked into the room 5
+Guest 5 (woman) checked into the room 6
+Guest 7 (man) checked into the room 7
+Guest 8 (man) checked into the room 8
+Guest 9 (man) checked into the room 9
+Guest 10 (man) checked into the room 10
+Guest 1 (woman) checked out of the room 1
+Guest 2 (man) checked out of the room 2
+Guest 4 (woman) checked out of the room 4
+Guest 6 (man) checked out of the room 5
+Guest 10 (man) checked out of the room 10
+Guest 5 (woman) checked out of the room 6
+Guest 7 (man) checked out of the room 7
+Guest 3 (woman) checked out of the room 3
+Guest 8 (man) checked out of the room 8
+Guest 9 (man) checked out of the room 9
